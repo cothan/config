@@ -1,6 +1,9 @@
 === Tilix 
 
 ==== Themes
+
+Theme names (my personal ranking)
+
 - Mathias (1)
 - Nightlion v1 (1)
 - Wez (2)
